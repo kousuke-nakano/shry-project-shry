@@ -24,4 +24,4 @@ SHRY uses canonical augmentation to generate non-duplicate substitution patterns
 ### Crystal Symmetry and Magnetic Space Group (spglib)
 
 - [A. Togo, K. Shinohara, and I. Tanaka, Spglib: a software library for crystal symmetry search, Sci. Technol. Adv. Mater. Methods 4, 2384822 (2024)](https://www.tandfonline.com/doi/full/10.1080/27660400.2024.2384822)
-- [A. Togo, K. Shinohara, and I. Tanaka, Implementation strategy of magnetic space group in spglib, Acta Crystallogr. A 79, C224 (2023)](https://journals.iucr.org/a/issues/2023/a2/00/a62492/a62492.pdf)
+- [K. Shinohara, A. Togo, and I. Tanaka, Algorithms for magnetic symmetry operation search and identification of magnetic space group from magnetic crystal structure, Acta Cryst. A 79, 390-398 (2023)](https://doi.org/10.1107/S2053273323005016)
